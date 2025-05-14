@@ -1,6 +1,0 @@
-{
-  "compatibility_date": "2024-01-01",
-  "asset_kv": {
-    "bucket": "./dist"
-  }
-}
